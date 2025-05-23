@@ -4,6 +4,13 @@
 
 This is a responsive React-based authentication web application that allows users to create an account, log in, and manage their profile. The application features form validation, local data storage, and smooth navigation between pages for an intuitive user experience.
 
+
+## 🔗 Live Demo
+
+> [Click here to view the live app](https://project-edu-txgm.onrender.com) 
+
+---
+
 ## 🚀 Features
 
 - Home page with welcome message and navigation options
@@ -24,11 +31,19 @@ This is a responsive React-based authentication web application that allows user
 - **Vite** – For lightning-fast builds and development
 - **Render** – For deployment
 
-## 🖼️ Project Screenshot
+## 🖼️ Project Screenshots
 
-![Home Pge](./screenshot.png)
-![Signup Pge](./screenshot.png)
-![Signin Pge](./screenshot.png)
-![Account Setting Pge](./screenshot.png)
+### 🏠 Homepage
+![Homepage](./screenshots/homepage.png)
+
+### 📝 Sign Up Page
+![Sign Up](./screenshots/signup.png)
+
+### 🔐 Sign In Page
+![Sign In](./screenshots/signin.png)
+
+### ⚙️ Account Settings Page
+![Account Settings](./screenshots/accountsettings.png)
+
 
 
