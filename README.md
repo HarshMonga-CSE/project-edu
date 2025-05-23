@@ -34,7 +34,7 @@ This is a responsive React-based authentication web application that allows user
 ## 🖼️ Project Screenshots
 
 ### 🏠 Homepage
-![Homepage](./screenshots/homepage.png)
+![Homepage](./screenshots/home.png)
 
 ### 📝 Sign Up Page
 ![Sign Up](./screenshots/signup.png)
@@ -43,7 +43,7 @@ This is a responsive React-based authentication web application that allows user
 ![Sign In](./screenshots/signin.png)
 
 ### ⚙️ Account Settings Page
-![Account Settings](./screenshots/accountsettings.png)
+![Account Settings](./screenshots/accountsetting.png)
 
 
 
